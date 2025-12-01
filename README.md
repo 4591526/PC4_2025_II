@@ -1,2 +1,4 @@
 # PC4_2025_II
-Blog
+Proyecto final 
+Nombres y Apellidos de los integrantes:
+
