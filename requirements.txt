@@ -2,4 +2,5 @@ streamlit
 pandas
 openpyxl
 folium
-matplotlib.pyplot 
+matplotlib
+html
