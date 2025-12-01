@@ -3,6 +3,7 @@ primaryColor="#6C63FF"
 backgroundColor="#D9B0A7"
 secondaryBackgroundColor="#F0F2F6"
 textColor="#000000"
+font="italic"
 [[theme.fontFaces]]
 family="noto-sans"
 url="app/static/NotoSans-Italic-VariableFont_wdth,wght.ttf"
